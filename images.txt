@@ -1,6 +1,6 @@
 nginx
 #支持私库
-- sqlflow/sqlflow
-- sqlflow/sqlflow:mysql
-- sqlflow/sqlflow:jupyter
+sqlflow/sqlflow
+sqlflow/sqlflow:mysql
+sqlflow/sqlflow:jupyter
 #支持指定架构
