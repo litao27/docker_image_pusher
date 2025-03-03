@@ -1,4 +1,6 @@
 nginx
 #支持私库
-busybox:latest
+docker pull sqlflow/sqlflow
+docker pull sqlflow/sqlflow:mysql
+docker pull sqlflow/sqlflow:jupyter
 #支持指定架构
