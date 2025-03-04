@@ -1,4 +1,4 @@
 nginx
 #支持私库
-neo4j
+yandex/clickhouse-server
 #支持指定架构
